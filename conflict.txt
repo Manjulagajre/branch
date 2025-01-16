@@ -1,2 +1,6 @@
 Initial content
+<<<<<<< HEAD
 ange from main
+=======
+change from branch1
+>>>>>>> branch1
